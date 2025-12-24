@@ -1,0 +1,31 @@
+<circuit version="1.1.0-SR1" rev="" stepSize="1000000" stepsPS="1000000" NLsteps="100000" reaStep="1000000" animate="0" >
+
+<item itemtype="Or Gate" CircId="Or Gate-1" mainComp="false" Show_id="false" Show_Val="false" Pos="-40,-292" rotation="0" hflip="1" vflip="1" label="Or Gate" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Input_High_V="2.5 V" Input_Low_V="2.5 V" Input_Imped="1000 MΩ" Invert_Inputs="false" Num_Inputs="2 _Inputs" Out_High_V="5 V" Out_Low_V="0 V" Out_Imped="40 Ω" initHigh="false" Inverted="false" Open_Collector="false" Tpd_ps="10 ns" Tr_ps="3 ns" Tf_ps="4 ns" />
+
+<item itemtype="Or Gate" CircId="Or Gate-2" mainComp="false" Show_id="false" Show_Val="false" Pos="-36,-220" rotation="0" hflip="1" vflip="1" label="NOR Gate" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Input_High_V="2.5 V" Input_Low_V="2.5 V" Input_Imped="1000 MΩ" Invert_Inputs="false" Num_Inputs="2 _Inputs" Out_High_V="5 V" Out_Low_V="0 V" Out_Imped="40 Ω" initHigh="false" Inverted="true" Open_Collector="false" Tpd_ps="10 ns" Tr_ps="3 ns" Tf_ps="4 ns" />
+
+<item itemtype="Probe" CircId="Probe-3" mainComp="false" Show_id="false" Show_Val="true" Pos="12,-308" rotation="-45" hflip="1" vflip="1" label="Probe-3" idLabPos="16,-16" labelrot="45" valLabPos="16,0" valLabRot="45" ShowVolt="true" Threshold="2.5 V" />
+
+<item itemtype="Probe" CircId="Probe-4" mainComp="false" Show_id="false" Show_Val="true" Pos="12,-236" rotation="-45" hflip="1" vflip="1" label="Probe-4" idLabPos="16,-16" labelrot="45" valLabPos="16,0" valLabRot="45" ShowVolt="true" Threshold="2.5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-5" mainComp="false" Show_id="false" Show_Val="false" Pos="-100,-308" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-5" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Voltage="5 V" Out="false" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-6" mainComp="false" Show_id="false" Show_Val="false" Pos="-100,-276" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-6" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Voltage="5 V" Out="false" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-7" mainComp="false" Show_id="false" Show_Val="false" Pos="-100,-236" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-7" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Voltage="5 V" Out="false" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-8" mainComp="false" Show_id="false" Show_Val="false" Pos="-100,-204" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-8" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Voltage="5 V" Out="false" />
+
+<item itemtype="Connector" uid="Connector-1" startpinid="Fixed Voltage-5-outnod" endpinid="Or Gate-1-in0" pointList="-84,-308,-84,-296,-56,-296" />
+
+<item itemtype="Connector" uid="Connector-2" startpinid="Fixed Voltage-6-outnod" endpinid="Or Gate-1-in1" pointList="-84,-276,-84,-288,-56,-288" />
+
+<item itemtype="Connector" uid="Connector-3" startpinid="Or Gate-1-out" endpinid="Probe-3-inpin" pointList="-24,-292,-4,-292" />
+
+<item itemtype="Connector" uid="Connector-4" startpinid="Fixed Voltage-7-outnod" endpinid="Or Gate-2-in0" pointList="-84,-236,-84,-224,-52,-224" />
+
+<item itemtype="Connector" uid="Connector-5" startpinid="Fixed Voltage-8-outnod" endpinid="Or Gate-2-in1" pointList="-84,-204,-84,-216,-52,-216" />
+
+<item itemtype="Connector" uid="Connector-6" startpinid="Or Gate-2-out" endpinid="Probe-4-inpin" pointList="-20,-220,-4,-220" />
+
+</circuit>
