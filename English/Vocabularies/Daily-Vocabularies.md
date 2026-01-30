@@ -41,11 +41,11 @@
 ||Words|Definitions and Examples|
 |--|--|--|
 |1|Blouse|A shirt for women|
-|2|Body Builder|Sb who excersice professionally|
+|2|Body Builder|Sb who exercise professionally|
 |3|Comfortable|Convenient, relaxed|
 |4|Loose|Untied, Not fastened very tightly|
 |5|Muscle|Pieces of flesh inside your body that you use it in order to move|
-|6|Tight|Fit your body very cloesly|
+|6|Tight|Fit your body very closely|
 |7|Windbreaker| A jacket designed to protect you from the wind|
 |8|Shoulder Bag| A bag that hangs from your shoulder|
 |9|Try on (sth)| To put on a piece of clothing to see it fits you or not, especially in a shop|
@@ -72,16 +72,52 @@
 #### Unit-5 (Dates)
 ||Words|Definitions and Examples|
 |--|--|--|
-|1|||
-|2|||
-|3|||
-|4|||
-|5|||
-|6|||
-|7|||
-|8|||
-|9|||
-|10|||
+|1|Appointment|an arrangement for a meeting at an agreed time and place|
+|2|Arrive|to get to the place you are going to. come, enter, get to|
+|3|Barbecue| a metal frame for cooking food outdoors|
+|4|Confirm|to say that sth is definitely true. authenticate|
+|5|Book(sth)|as a verb it means reserve sth. flight, hotel,...|
+|6|Dental|relating to your teeth|
+|7|not 'till|not until, sth does not happen before a certain point of time|
+|8|lemme know|let me know|
+|9|Vacation|holiday, time spent not working|
+|10|Fabulous|wonderful, brilliant, fantastic|
+
+```
+Date format: Month/Day/Year
+```
+
+```
+Months :
+1)January   2)February   3)March   4)April   5)May   6)Jun   7)July   
+8)August   9)September   10)October   11)November   12)December
+```
+
+
+#### Unit-6 (Jobs)
+||Words|Definitions and Examples|
+|--|--|--|
+|1|Occupation|Career, job, ...|
+|2|Acting|job or skill of performing in plays or shows, drama|
+|3|Businessperson|a person who works in business, businesswomen|
+|4|Distance|the amount of space between two places or things|
+|5|Graduate|sb who has complete a university degree.|
+|6|Nursing|looking after people who are ill, injured or old|
+|7|Receptionist|sb who say welcome and deal with people arriving in a hotel, office building,visiting a doctor etc.|
+|8|Salesperson|sb whose selling things|
+|9|Server|sb whose bring your food in a restaurant. also we can say waiter and waitress  |
+|10|Tiring|making you feel sleep or rest. tire(v.), tired(adj.) |
+|11|Well-paid|providing or receiving good salary |
+|12|Be on (sb) feet|to be independence|
+|13|Be sick of (sth)|annoyed by sb or sth. make you tired|
+|14|Construction worker|sb who build buildings, bridge, ...|
+|15|Silly|foolish, stupid|
+|16|Stay in shape|being healthy and fit|
+|17|Why's that?|for what reason?|
+
+```
+Hope to + verb
+```
 
 
 ---
