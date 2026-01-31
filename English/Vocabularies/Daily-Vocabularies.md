@@ -11,6 +11,10 @@
      - [Unit 6 - Jobs](#unit-6-jobs)
      - [Unit 7 - Favorites](#unit-7-favorites)
      - [Unit 8 - Sports and Exercise](#unit-8-sports-and-exercise)
+     - [Unit 9 - Locations](#unit-9-locations)
+     - [Unit 10 - The Family](#unit-10-the-family)
+     - [Unit 11 - Entertainment](#unit-11-entertainment)
+
 
 
 2. [400 Must Have Words For The TOEFL](#400-must-have-words-for-the-toefl)
@@ -192,9 +196,50 @@ Structures :
 
 ||Words|Definitions and examples|
 |--|--|--|
-||||
-||||
-||||
+|1|Cushion|small pillow|
+|2|Borrow|to use sth that belongs someone else ≠ lend|
+|3|Either...or...|you have two option. option A or option B|
+|4|Against|beside, in contact with, used to say that someone opposes or disagrees with sth |
+|5|Rack (n.) |shelf, stand|
+|6|End table|small table next to sofa|
+|7|Guid|advisor|
+|8|Remind|remember sth|
+|9|Doorknob|the handle that you open the door with it|
+|10|Never mind|not important|
+|11|Drives (sb) crazy|make sb angry, be on sb nerve|
+|12|Mess|dirty or not neatly|
+|13|Hook|sth that you hanging things on |
+|14|Belong|fit, set|
+
+#### Unit-10 (The Family)
+||Words|Definitions and examples|
+|--|--|--|
+|1|Great-grandfather|grand parents of your parents|
+|2|Niece|the daughter of your sisters or your brothers|
+|3|Nephew|the son of your brothers or sisters|
+|4|In the middle |middle child|
+|5|Look like|similarity with someone else, same as|
+|6|Look young for (age)|younger than someone's main age|
+|7|Twins|two children were born at the same date and time|
+|8|Bosses (sb) around|to tell sb to do what to do and what not to do.|
+|9|Lucky|full of chance|
+|10|Quite|not very|
+|11|Wish|sth you really want|
+|12|Only child|without any brothers or sisters|
+|13|Be into (sth)|interesting for sth |
+|14|Parrot|kind of birds|
+|15|Cage|the area that we keep birds into it.|
+|16|Wild|tame ≠ domestic|
+|17|Countryside |out of city|
+|18|Birdwatching|also we can say bird-watcher|
+|19|Cultures|the way that other people believe on different things or lives|
+|20|Miss|sb you love and not around you |
+
+
+
+#### Unit-11 (Entertainment)
+||Words|Definitions and examples|
+|--|--|--|
 ||||
 ||||
 ||||
@@ -206,3 +251,18 @@ Structures :
 
 ---
 ### Wordup Application
+
+||Words|P.S|Definitions|
+|--|--|--|--|
+|1.|Dynamic|adj.|changing or active, often in exciting or positive way. `It's not just for beneficial situation`|
+|||n.|The wa in which people or things interacting with each other. `team dynamic, group dynamic, Family dynamic`|
+|2.|Drink|v.|**1)** to take in liquid through the mouth. **2)** to consume alcohol.  **3)** to absorb or soak up. `the plants drink up the sunlight` **4)** to celebrate or honor with toast. `they drank to her success`|
+|3.|Due|n.|**1)** expected to happen or arrive at specific time. 2)Owned as a dept = to remind sb politely that a payment is expected. `your subscription fee is due`|
+|4.|Drum|n.|1) a musical instrument. **2)** part of the machine shape like cylinder. **3)** social gathering or party|
+|||v.|**1)** to make noise by hitting sth repeatedly. `stop drumming your pen !!!` **2)** to teach sth by repeated many time. `I drummed this grammar for million times for you` **3)** to kick sb out, often from job or positions. `He was drummed out of army`|
+|5.|Minute|n.|**1)** a period of time equal with sixty seconds. **2)** to summary or record sth for report or meeting. **3)** a unit of time in navigation and astronomy = one sixteenth degree. **4)** extremely small in size or amount. `there are minute particles of dust in the air`|
+|||||
+|||||
+|||||
+|||||
+|||||
