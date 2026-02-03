@@ -20,6 +20,7 @@
 2. [400 Must Have Words For The TOEFL](#400-must-have-words-for-the-toefl)
    - Season 1 (Nature)
       - [Unit 1 - Food Crops](#unit-1-food-crops)
+      - [Unit 2 - Disaster](#unit-2-disaster)
 
 3. [Wordup Application](#wordup-application)
 
@@ -264,6 +265,31 @@ Structures :
 |5.|Aggregate|n.|**also aggregation** **1)** The total after a lot of different figures or point added. `Elephant can be found in a large aggregate in the Africa.` , `The last election got an aggregate of 99 vote.` **2)** stand or small stones use in making concrete.|
 ||Aggregative|adj|**3)** particular amount when added together. `The aggregate carnage was fake. Iran shared fake news.`|
 |||v.|**4)** to put different amount together to form a group or total. `Sara's earning aggregated around $1000`.  ***Aggregate is often followed by sth like Sum, Total, Numbers,...***|
+|6.|Cultivate|v.|**1)** preparing land to grow crops, improvement for agricultural purpose. `The land was too rocky to cultivate.` **2)** to plant and take care of particular crop. = **grow** `The farmers cultivated watermelon last year.`|
+||Cultivator|n.|**3)** sb who grow the plants or crops, someone like farmers. `For this season many properties need new cultivator.`  **4)** tools or machine used to prepare land for growing crops. `Their cultivator machine need to fix ASAP.`|
+||Cultivation|n.|**5)** preparation and use of land for growing crops. `Their fields have been under cultivation for years.`|
+|7.|Fertilize|v.|**1)** to supply with nourishment for plants by adding helpful substance to the soil. `The apples grow well here, because the farmers fertilize their soil.` **2)** to make new animal or plant life develop. `After the egg has been fertilized, it will natch in about 6 weeks.`|
+||Fertilization|n.|**3)** `After fertilization, we have to irrigate soil.`|
+||Fertilizer|n.|**4)** Substance that is put on the soil to make plant grow.|
+|8.|Intensify|v.|**1)** to increase in power, to act increased strength. `Her broke up intensified her loneliness.`|
+||Intensification|n.|**2)** `This pills are good intensification to make you fresh.`|
+||Intensity|n.|**3)** the strength of sth such as light, sound, ... `The intensity of hurricane was frightening.`|
+||Intense|adj.|**4)** having a very strong effect or felt very strongly. `The pain was intense, i couldn't handle it.`  **5)** sb who is serious and has very strong feeling or opinion. `She is a little too intense for me.`|
+|9.|Irrigate|v.|**1)** to supplying of water to dry lands. moisten, watering. `The water of this lake use to irrigate the area.`|
+||Irrigation|n.|**2)** `A good irrigation could provide fresh products.`|
+|10.|Obtain|v.|**1)** to get sth that you want, specially through your own efforts, skills, or work ... = **get** `You need to obtain the permission from your boss.` |
+||Obtainable|adj.|**2)** Able to be obtain. `All of your dreams are obtainable.`|
+|11.|Photosynthesis|n.|**1)** production by a green plant that make their own food by combining water, salt, carbon dioxide in presence of light. `Must of plant cultivate by photosynthesis.`|
+||Photosynthesize|v.|`It can photosynthesize by soak up the sun light.`|
+|12.|Precipitation|n.|**1)** water that falls to the earth's surface. `You can see the high level of precipitation in the north.`|
+||Precipitate|v.||
+|13.|Revitalize|v.|**1)** To put new strength or power into sth. `She feel better after revitalize message.` , `Your smile is a revitalization of my heart.`|
+|14.|Readily|adv.|**1)** Quickly and easily. **(Comes from ready)** `The information is readily accessible on the internet`  **2)** quickly, willingly, and without complaining. `Jack readily agreed to help us!`|
+
+#### Unit-2 (Disaster)
+||Words|P.S|Definitions|
+|--|--|--|--|
+|||||
 
 
 
