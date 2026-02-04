@@ -289,6 +289,22 @@ Structures :
 #### Unit-2 (Disaster)
 ||Words|P.S|Definitions|
 |--|--|--|--|
+|1.|Disaster|n.|**1)** sudden events such as flood, storm,... or accident which causes a great damage or suffering. `The 1987 hurricane was the worst natural disaster.`|
+|2.|Anticipate|v.|**1)** to expect sth will be happen. `Our sales are better than anticipated.` **2)** to sense sth before it happens. `I can anticipate for new version of Iran.` **3)** to think about sth that is going to happen. `We anticipate about intense of gold price.`|
+||Anticipation|n.|**4)** When you are expecting sth to happen. = **Expectation** `The events that occurred in the last 2 weeks were out of our anticipation.`|
+||Anticipator|n.|**5)** Sb who predict sth. `They have a great anticipator on their country.`|
+||Anticipative|adj.|**6)** Sb who have prediction strength. `He asked help from sb with anticipative ability.`|
+||Anticipatory|adj.|**7)** `They were in the anticipatory condition.`|
+|3.|Catastrophic|adj.|**1)** Extremely harmful, causing financial or physical ruin. `This war can potentially catastrophic for the environment.`|
+||Catastrophe|n.|**2)** A terrible events with a lot of disruptions, suffering or dead. `Islamic regime made a terrible catastrophe in Iran.` ***Catastrophe > Disaster > Adversity*** |
+|4.|Collide|v.|**1)** to come together with great or violence force. **2)** to disagree strongly with a person or group on particular subject. `My father and I struggled after our views collided with each other.`|
+||Collision|n.|**3)** A strong disagreement between 2 people or group. `The collision between us was anticipated.`|
+|5.|Erupt|v.|**1)** Sth start suddenly, lightening, violence, ... `Violence erupted after Islamic regime shoot the ordinary people.` **2)** If volcano erupted, it explodes and sends smoke, fire, ... out. `Sb said Damavand is nearly to erupted.` **3)** sudden increase activities or emotions. |
+||Eruption|n.|**4)** explosion, outburst. **`Often followed by (of)`** `The eruption od Mount St.Halen in 1980 caused 60 dead.`|
+|6.|Famine|n.|**1)** Sever hunger, a drastic food shortage. `Thee potato famine in Ireland caused a large immigration.` **2)** A very large number of people have little or no food for long time. `Million people faced famine in Africa.`|
+|7.|Flood|n.|**1)** a very large amount of water that covers an area. `It was the worst floods for over fifty years.` **2)** a very large number of things or people, excessive amount. ***`In this meaning mostly come with (of)`*** `They send out a flood of letter for president Trump.`|
+|||v.|**3)** Cover with water. `Towns and cities all over the country have been flooded.`|
+|||||
 |||||
 
 
