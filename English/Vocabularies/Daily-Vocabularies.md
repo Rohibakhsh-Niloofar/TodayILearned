@@ -337,3 +337,18 @@ Structures :
 |13.|Progress|n.|**1)** forward or onward movement to destination. `As we progress through the jungle, we hope to reach the village by night.` **2)** developments towards an improved or more advanced condition. `The progress of technology over the years has been astounding.` = **`change in time but development is by techniques.`**|
 |||v.|**3)** move toward in time or space. `As the week progressed, the weather got worse.`|
 |||phrase|**In progress** = being, happening or done at the moment. `Be patient, your bright days are in progress.`|
+
+
+---
+
+### Random Vocabularies
+
+||Words|P.S|Definitions|
+|--|--|--|--|
+|1.|Vague|adj.|**1)** Unclear, uncertain. `Vague data`|
+||Vagueness|n.|Not enough details or information|
+|2.|Line man|n.|a person who apply the wire in the air.|
+|3.|Advocate|V.|**1)** Support a particular way of doing something. **`Mostly follow by (for)`** |
+|||n.|Someone who publicly supports someone or sth. = **Proponent** **`Mostly followed by (of)`**|
+|4.|False teeth|n.|**1)** Denture(More modern), Artificial teeth.|
+|5.|Bionic|n.|**1)** half human and half machine. `The bionic man.`|
