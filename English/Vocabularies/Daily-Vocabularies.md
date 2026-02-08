@@ -21,6 +21,7 @@
    - Season 1 (Nature)
       - [Unit 1 - Food Crops](#unit-1-food-crops)
       - [Unit 2 - Disaster](#unit-2-disaster)
+      - [Unit 3 - Evolution and Migration](#unit-3-evolution-and-migration)
 
 3. [Wordup Application](#wordup-application)
 
@@ -323,7 +324,35 @@ Structures :
 |22.|Devastation|n.|**1)** destruction, destroy,|
 ||Devastate|v.|**2)** to damage sth very badly. `The city center was devastate by bomb.`|
 
-
+#### Unit-3 (Evolution And Migration)
+||Words|P.S|Definitions|
+|--|--|--|--|
+|1.|Evolution|n.|**1)** development / the gradual change or development of an idea, situation, or subject. `The evolution of computer`|
+||Evolutionary|adj.|**2)** develop over a long period of time.|
+||Evolve|v.|**1)** To develop / `Business need to evolve rapidly.` / ***`Often followed by (into) or (from)`***|
+|2.|Migration|n.|**1)** when large number of people go to live in another area or country, especially in order to find work. **2)** when birds or animals travel regularly from one part of the world to another. ***`It's so general and mostly use foe move from somewhere to another place. / It could be permanent or temporary. `***|
+|3.|Emigration|n.|**1)** Move abroad.|
+||Emigrate|v.|**2)** to leave your own country in order to live in another country. `She emigrate to Australia as a young girl.` ***`It's permanent`***|
+|4.|Immigration|n.|**1)** the process of entering to another country in order to live there permanently. / **2)** The total number of people who immigrate. `Immigration fell in the 1980's. `|
+||Immigrate|v.|**3)** to come into the country in order to live there permanently.|
+|5.|Adapt|v.|**1)** to adjust to circumstance. `we can't adapt with this regime anymore.` / **2)** to change sth to make it suitable for a different purpose. `These vocabularies adapted to advance students.` / ***`Often followed by (to)`***|
+||Adaptation|n.|**1)** `Adaptation to the environment.`|
+|6.|Diverse|n.|**1)** Various, ***`-ly adverb often comes before diverse`*** / `India is one the most linguistically diverse countries in the world.`|
+||Diversify|v.|**2)** to change sth or to make it change so there is more variety. `Users requirements have diversified over the years.`|
+||Diversity|n.|**3)** Many different kind of people or things. `A diversity of opinion`|
+||Diversification|n.|**4)** `Product diversification.`|
+|7.|Feature|n.|**1)** A part of sth that you notice because it seems important, interesting. `ios 26 has many new features.` / ***`Often followed by (of)`***|
+|8.|Generation|n.|**1)** A group of people born at the same time. `We were a brave generation.` ***`Tip (1): Mostly we have an adjective before this word, such as next, new, etc.`*** / ***`Tip(2): Often followed by (of)`***|
+||Generational|adj.|**2)** Connected with a particular generation or the relationship between different generations. `Generational conflict` / `They have a hard argument for generational conflict.`|
+|9.|Inherent|adj.|**1)** natural part of you and cannot be separated from you. Also we can say **Essential** / ***`often followed by (in)`***|
+||Inherently|adv.|**2)** `Firefighting is inherently dangerous.`|
+|10.|Physical|adj.|**1)** Related to your body. `He was obsessed with physical fitness.`  /  **2)** related to materials that can be seen or felt. ***`Usually comes before the noun it describes.`***|
+|11.|Process|n.|**1)** A series of steps leading to the result. ***`Often followed by (of) + vern(ing)`*** |
+||Proceed|v.|**2)** To continue to do sth that has already been planed or started. `The government was determined to proceed with election.`|
+|12.|survive|v.|**1)** To continue living despite some danger or illness. `In this situation anything could survive her.` / `Iran survived by Iranian.` ***`Often followed by a phrase with (by).`***|
+||Survivor|n.|**2)** someone who continue to live after an accident, war, or illness. `Don't worry about me! I'm a survivor.` / `She was the last survivor of the family.`|
+||Survival|n.|**3)** The state of continuing to live or exist. `The doctors gave him a once of ten chance of survival.`|
+|13.|Monumental|adj.|**1)** Important, awesome, enormous|
 
 
 
