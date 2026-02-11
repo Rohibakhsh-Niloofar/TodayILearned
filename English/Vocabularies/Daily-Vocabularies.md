@@ -26,6 +26,8 @@
    
    - Season 2 (Science)
       - [Unit 5 - Time Efficiency](#unit-5-time-efficiency)
+      - [Unit 6 - Ancient Life](#unit-6-ancient-life)
+
 
 
 3. [Wordup Application](#wordup-application)
@@ -387,7 +389,7 @@ Structures :
 |10.|Extinct|adj.|**1)** dead, does not exist anymore. `Dinosaurs have been extinct for million of years.`  / **2)** An extinct volcano does not erupt anymore. |
 ||Extinction|n.|**3)** When a particular type of animal or plant stops existing. `Species in danger of extinction.`|
 |11.|Reservoir|n.|**1)** A place where liquid collected and stored. `Their enemies put poison in the town's reservoir.` |
-||Reserve|v.|**2)** To adjust for the hotel,restaurant,... `I reserved a luxury table for valentine day.`   /   **3)** To keep part of sth for use at the latter time. **= Keep, Save**  /  `Reserv some food for me tonight.`|
+||Reserve|v.|**2)** To adjust for the hotel,restaurant,... `I reserved a luxury table for valentine day.`   /   **3)** To keep part of sth for use at the latter time. **= Keep, Save**  /  `Reserve some food for me tonight.`|
 |12.|Shrink|v.|**1)** to become reduced in size, amount, or value. `If you dry your clothes on high heat setting, they may shrank.`|
 ||Shrinkage|n.|**2)** The ack of shrinking, `Drinking herbal tea could shrinkage stress.`|
 ||Shrinkable|adj.|**3)** I suggest to buy more, because this cloth is shrinkable.|
@@ -437,6 +439,54 @@ Structures :
 |14.|Intersecting|n.|**1)**  **≠ Sequence**|
 |15.|Obsess|v.|**1)** you think or worry about sth all the time and you cannot think about anything else. `These days, I obsessed by my future. `   / ***`Mostly followed by (with) or (by).`***|
 |16.|Execute|v.|**1)** to kill someone, especially legally as a punishment. `Thousands of people have been executed for last protest. ` / **2)** to do sth that you carefully planned. **= implement** `Computers executes several different task at the same time.` |
+
+
+#### Unit-6 (Ancient Life)
+
+||Words|P.S|Definitions|
+|--|--|--|--|
+|1.|Ancient|n.|**1)** people who lived long time ago. / related to your family tree. `Our ancient eas so rich.`|
+|||adj.|**2)** belonging to a time long ago in history / thousands of years ago. **≠ Modern** / `The religion of ancient Egypt.` /   **3)** Having a existed for a very long time. **≠ New** `An ancient walled city.`  / **4)** very old. `This photo make me look ancient.`|
+|2.|Accuracy|n.|**1)** Te ability to do sth without any mistake. `He speaks english accuracy.` / **2)** the quality of being correct or true. **≠ inaccuracy** `I was worrying about the accuracy of news.`/ ***`Often followed by (of)`*** **= Precision** |
+||Accurate|adj.|**3)** Correct and true with full details. `The teacher tries to give a fair and accurate description for each student.` **≠ Inaccurate** |
+||Accurately|adv.|**4)** `She assembled elemental part of machine accurately.` |
+|3.|Adjacent|adj.|**1)** a room, building, piece of land etc that is adjacent to sth is next to it. `We stayed in adjacent room.` ***`Often followed by (to)`***  `The office adjacent to the library.`|
+||Adjacency|n.|**2)** A things which lies near,|
+|4.|Compress|v.|**1)** to press together. `Snow falling on the mountainside is compressed into ice` / **2)** To make a computer file smaller. `The program compressed any data saved to the disk.`|
+||Compression|n.|**3)** make sth smaller. `For better use, you can buy a compression type.` |
+||Compressed|adj.|**4)** pressed together or into less value or space. `You can download compressed data.`|
+|5.|Feasible|adj.|**1)** possible and likely to work. `We are looking for a feasible method to solve this problem.` **= practical**|
+||Feasibility|n.|**2)** In a way that can work. `Your dreams are feasibility.`|
+||Feasibly|adv.|**3)** practically. `They decide to run their project feasibly.`|
+|6.|Gut|v.|**1)** to empty or hollow out. `please gut your glass for next shot. :) ` **2)** to completely destroy the inside of building. `The building was completely gutted by fire.`  / **3)** to remove the organ from inside of animals in order to prepare it for food. `The chief gutted the duck for tonight order.`|
+|||n.| **4)** Someone stomach. `He has a huge beer gut.` |
+||Gutted|adj.|**5)** seriously damaged or completely destroy. `We drove slowly past the gutted building.`|
+|7.|Integral|adj.|**1)** forming a necessary part of sth. `Vegetable are the integral part of our diet.` = essential, component, fundamental, necessary.|
+||Integrally|adv.|**2)** In a whole or complete manner. `The economy and the environment are integrally linked.`|
+||Integrity|n.|**3)** being honest and strong about what you believe to be right. `He is a man of great manner integrity.`|
+||Integrate|v.|**4)** combine or work together in a way that makes sth more effective.  `Colorful illustrations are integrated into the text.`|
+|8.|Overlap|v.|**1)** To lie over part of sth. `The tiles on the roof overlap.`|
+|||n.|**2)** The amount by which two activities, idea, things etc overlap. `it has an overlap about two centimeters.`|
+|9.|Retain|v.|**1)** to keep sth or continue to have sth. `You have to retain more food for emergency situation.` / `A lot of information retained into your computer.`|
+||Retainer|n.|**2)** A plastic and wire object that you wear in your mouth to make your teeth stay straight. |
+||Retention|n.|**3)** the act of keeping sth. `Retention of their passionate.`|
+|10.|Seep|v.|**1)** to flow slowly through small holes or space. `Blood seeped down his legs.` **2)** To pass slowly for a long time as a liquid or gas. `Blood was seeping slowly from the wound.`  / ***`Often followed by (into) or (Through)`***|
+||Seepage|n.|**3)** a gradual of liquid or gas through small space or holes.|
+|11.|Structure|n.|**1)** sth that has been built, especially sth large such as building or a bridge. `A high wooden structure with a curved roof.` **2)**  A situation where activities are carefully organized and planned. `These kids require a lot of structure and stability.`|
+|||v.|**3)** to arrange the different part of sth into a pattern or system. `The exhibition structured around three topics.`|
+||Structural|adj.|**4)** connected with the structure of sth. `We need a structural changes in the computer industry.`|
+||Structurally|adv.|**5)** `I feel this project can failed structurally.`|
+|12.|Petrify|v.|**1)** Turn to stone, `It petrifies after a million years.`|
+||petrified|adj.|**2)** extremely frightened, `I'm petrified of spider.`|
+||Petrification|n.||
+|13.|Mud|n.|**1)** wet earth that become soft and sticky, `The path near the river was slippery with mud.`|
+|14.|Initial|v.|**1)** to show that you agree with sth. ``|
+|||n.|**2)** the first letter of all your name. `Can I have your initial Mr.Davies? it's G. Mr.G Davies.`|
+|||adj.|**3)** happening at the beginning. **= first** /  |
+||Initially|adv.|**4)** at first, in the beginning of sth.|
+|15.|Cellular|adj.|**1)** relating to the cells of plant or animals|
+|16.|Preserve|v.|**1)** to save sth or someone .  **2)** to store food foe a long time. `Black olives preserved in brine.`|
+|17.|Submerge|v.|**1)** immerse, to cover sth completely water or other liquid. `The tunnel submerged by rising sea water.`|
 
 
 ---
