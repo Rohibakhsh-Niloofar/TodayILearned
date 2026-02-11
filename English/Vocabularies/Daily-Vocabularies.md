@@ -252,10 +252,42 @@ Structures :
 #### Unit-11 (Entertainment)
 ||Words|Definitions and examples|
 |--|--|--|
-||||
-||||
-||||
-||||
+|1.|Entertainment|sth you do for fun|
+|2.|Go to the movie|see movie at cinema|
+|3.|Rent movie|watch movies at home|
+|4.|Rollerblade|kind of sport, skating|
+|5.|I think so|to show your agreement|
+|6.|Lie on|your body is flat on the floor|
+|7.|Get the guys|call the boys|
+|8.|Free|≠ busy|
+|9.|Sounds fun|it great|
+|10.|Fine with me|I agree with it, it's ok.|
+|11.|I'd love to, but|Polite way to decline someone's invitation.|
+|12.|All right|to show your agreement|
+|13.|Downtown|CityCenter|
+|14.|Appointment|Important meeting|
+|15.|Come over|Visit you at your home as a host|
+|16.|Go away|Going to the travel or go out of city|
+|17.|Though|although, even if|
+|18.|Give (sb) a ride|To drive someone to somewhere|
+|19.|Pick (sb) up|Arrive (by car) to someone who waiting for you.|
+
+```
+1) Look + at = to directly look at sth. (Look + at + obj)
+2) See = To notice sth. (Has anyone seen my glass?)
+3) Watch = To look at sth for period of time. (I watch what's happening out there? )
+
+- See movies or watch movies? which one is correct?
+
++Both of them is correct. Whenever you go to main place of sth to watch you can use see.
+ 1. I saw this movie. (It means I saw it at cinema)
+ 2. We are going to see the football. (It means they want see it in the stadium.)
+
+ Whenever you want to see sth except their main place, you can use Watch.
+ 1. I watched this movie.
+ 2. We are going to watch football.
+ 
+```
 ---
 ### 400 Must Have Words For The TOEFL
 
