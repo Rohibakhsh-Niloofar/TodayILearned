@@ -14,6 +14,7 @@
      - [Unit 9 - Locations](#unit-9-locations)
      - [Unit 10 - The Family](#unit-10-the-family)
      - [Unit 11 - Entertainment](#unit-11-entertainment)
+     - [Unit 12 - Price](#unit-12-price)
 
 
 
@@ -288,6 +289,48 @@ Structures :
  2. We are going to watch football.
  
 ```
+
+#### Unit-12 (Price)
+
+
+||Words|Definitions and Examples|
+|--|--|--|
+|1.|On sale|sth you can buy with discount.|
+|2.|TRy on (sth)|Wear sth to check it's fit on you or not.|
+|3.|Take (sth)|Here means to buy or purchase sth. |
+|4.|Two for (a dollar)|a pair of sth only cost one dollar|
+|5.|Come to (sth)|total price, total cost|
+|6.|You've got|you have|
+|7.|Looks good on you|Match or fit on you.|
+|8.|Cost another|extra payment|
+|9.|Tuition|teaching or instruction|
+|10.|Tax|particular price that you pay to government by each purchase.|
+|11.|Afford|Have enough money to buy or pay sth.|
+|12.|Neighborhood|Area of town|
+|13.|More than twice|Multiple time|
+|14.|Reasonable|Rational, logical|
+|15.|Cost|price|
+|16.|Cost me more than|more than a specific amount of sth|
+|17.|Population|Number of people in society|
+|18.|Keep the price down||
+|19.|Expense|amount of money you spend on (sth)|
+|20.|Insurance|Governmental or private price protection|
+|21.|Run by government|Paid by government|
+|22.|Range|limit, area|
+|23.|altogether|sth has finished completely|
+|24.|Own|related to you|
+|25.|Twice that (amount)|price *2|
+|26.|Rent|pay to have sth for a period of time.|
+
+```
+1) use (and) when the price include dollar and cent.
+  - Five dollar and fifty cent. ($5.50)
+  - Three dollars and twenty-five cent ($3.25)
+2) BTW it's optional. also you can say:
+  - Five fifty ($5.50)
+  - Three twenty-five ($3.25)
+```
+
 ---
 ### 400 Must Have Words For The TOEFL
 
