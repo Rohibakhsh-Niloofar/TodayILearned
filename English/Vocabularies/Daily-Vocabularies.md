@@ -28,6 +28,7 @@
    - Season 2 (Science)
       - [Unit 5 - Time Efficiency](#unit-5-time-efficiency)
       - [Unit 6 - Ancient Life](#unit-6-ancient-life)
+      - [Unit 7 - Computers](#unit-7-computers)
 
 
 
@@ -563,6 +564,48 @@ Structures :
 |16.|Preserve|v.|**1)** to save sth or someone .  **2)** to store food foe a long time. `Black olives preserved in brine.`|
 |17.|Submerge|v.|**1)** immerse, to cover sth completely water or other liquid. `The tunnel submerged by rising sea water.`|
 
+#### Unit-7 (Computers)
+||Words|P.S|Definitions|
+|--|--|--|--|
+|1.|Circulate|v.|**1)** Become known by many people, viral. `The gossip circulate quickly in the office.` ***`Mostly followed by through`*** / **2)** To move in circle or circuit. `The blood circulates through the body.`  / **3)** To provide and manage the distribution of sth. `The magazine circulate 5000 copies every month.`|
+||Circulation|n.|**4)** Movements of blood through out the body. / **5)** The numbers of magazine or newspaper. |
+|2.|Corrode|v.|**1)** Slowly damaged or destroy sth. `The iron fence corroded over the years.` / **2)** To gradually weaken or destroy someone's sprit. |
+||Corrosion|n.|**3)** when material break or wear away by chemical reaction. / **4)** visible sign of damage. |
+||Corrosive|adj.|**5)** Capable to destroy or eating away by chemical action. `Avoid to touch corrosive material in lab.` / **6)** Bitterly or high critical. |
+|3.|Derive|v.|**1)** to come from a source. `He drives his happiness by helping other people.` / **2)** In the math, to find derivation of function or equation. ***`Often followed by (from)`***|
+||Derivation|n.|**3)** Common roots. **4)** Origin or background of sth.|
+||Derivative|adj.|**5)** sth based another source. **6)** Imitative from another artists or writers.|
+|4.|Detect|v.|**1)** to discover sth or identify sth. **2)** Investigate a crime.|
+||Detective|v.|**3)** a person who find clue or evidence about crime.|
+||Detectable|n.|**4)** able to detect|
+||Detection|n.|**5)** discover sth that cannot easily found. ***`often followed by (of)`***|
+|5.|Expedite|v.|**1)** Make sth happen faster or more efficiently to take a fast action. |
+||Expedition|n.|**2)** Scientific journey. `They'll go the scientific expedition next week.` / **3)** Super fast.|
+||Expeditiously|adv.|**4)** Quickly and efficiently.|
+|6.|Implement|v.|**1)** to put a plan, to make use of sth.  **2)** to start or take a process. `The government implement the new law smoothly.`|
+|||n.|**3)** sth used to achieve a purpose. **4)** Tools. `A farmers uses various implements for farming.`|
+||Implementation|n.|**4)** `They are looking foa an implementation application.`|
+|7.|Innovative|adj.|**1)** Creative or a head of the time.|
+||Innovation|n.|**2)** `They looking for someone innovation.`|
+||Innovate|v.|**3)** to introduce sth new. **4)** introduce new law. `The government innovate new laws.`|
+||Innovator|n.|**4)** a person who introduce sth new such as new idea or new things. |
+|8.|Installation|n.|**1)** setting sth up. / **2)** fit sth somewhere .|
+||Install|v.|**3)** Set up for use. **4)** position someone for a job. `They install new product manager for new month.`|
+||Instalment|n.|**5)** Portion or pay bit by bit. `Her total instalment is sth around $5000.`|
+|9.|Maintain|v.|**1)** To keep sth in a good condition. `I maintain my language skill by practicing daily.` / **2)** Uphold sth as true. `She maintains her innocent.`|
+||Maintenance|n.|**3)** to keep sth in a good condition. / **4)** to support someone or sth especially financially. **5)** to keep sth. `the maintenance of my peace is hard.`|
+|10.|Simulate|v.|**1)** to copy sth ? `Scientists simulate the weather condition.` **2)** To act for sth. `She simulate illness to avoid going to school.`|
+||Simulator|n.|**3)** `All of the pilots practice on flight simulator`|
+||Simulation|n.|**4)** It was a great simulation for that application.|
+||Dissimulate|v.|**5)** To hide or pretend your true feeling.(Sth fake or act fake)  `Her tears dissimulate to get sympathy.`|
+|11.|Circumnavigate|v.|**1)** Travel completely around sth. `They circumnavigate around the world by 120 days.`|
+|12.|Renovate|v.|**1)** Restore sth. `She renovates her room this days.`|
+|13.|Imprison|v.|**1)** To keep sth at jail. **2)** to limit sb freedom.|
+|14.|Smuggler|n.|**1)** a person who take sth illegally to other places or country. `He was arrested for being drug smuggler.`|
+|15.|Neglect|v.|**1)** Not give enough care or attention to sth. `She always neglects about herself.`|
+|16.|Vigilance|n.|**1)** Watchfulness, alertness, being aware.|
+|17.|Swamp|v.|**1)** Suddenly give someone a lot of tasks to do. |
+|||n.|**2)** Where a lotus flower grow up in. |
 
 ---
 ### Wordup Application
