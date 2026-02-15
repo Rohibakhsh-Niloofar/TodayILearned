@@ -15,6 +15,7 @@
      - [Unit 10 - The Family](#unit-10-the-family)
      - [Unit 11 - Entertainment](#unit-11-entertainment)
      - [Unit 12 - Price](#unit-12-price)
+     * [Unit 13 - Restaurants](#unit-13-restaurant)
 
 
 
@@ -332,6 +333,51 @@ Structures :
   - Three twenty-five ($3.25)
 ```
 
+
+#### Unit-13 (Restaurant)
+
+||Words|Definitions and Examples|
+|--|--|--|
+|1.|Peas|Round green seed.|
+|2.|Appetizers| Small dish before your main dish.|
+|3.|Order(v.)| what you want to eat or drink. / |
+|4.|Main dish|What you eat as a main food.|
+|5.|Try (sth)|to taste or to test sth|
+|6.|Grill|Barbecue sth|
+|7.|Decide|came to a decision|
+|8.|Stir-fry|Cook sth in oil.|
+|9.|There you are|Here you are|
+|10.|Expect|think, assume|
+|11.|Starving|Very hungry|
+|12.|Dry|≠ Fresh|
+|13.|Frozen|icy|
+|14.|Fabulous|Wonderful|
+|15.|Choice|Option|
+|16.|PLeased|To make sb happy or satisfied|
+|17.|Sea food|Foods include marine creature.|
+|18.|Tough|Hard, not soft|
+|19.|Oily|Maintain a lot of oil|
+|20.|In fact|In reality|
+|21.|House dressing|Special restaurant sauce. |
+|22.|Bite|Use your mouth to grab sth|
+|23.|Diet|care about your weight and what you eat|
+|24.|egg roll|Type of chines food|
+|25.|beef|meat of cow|
+|26.|bowl|sort of plate|
+|27.|Salty|With a lot of salt, taste like salt|
+|28.|Pork|meat of pig|
+|29.|Mousse|Kind of sweet food|
+|30.|Overcooked|to cook sth foe a long time.|
+|31.|Service||
+|32.|Awful|Terrible, very bad or unpleased.|
+|33.|Fried|Having been cooked in hot oil.|
+|34.|Fries|Long thin of potato that have been cooked in hot oil. = chips|
+|35.|Slice of (sth)| Proportion of sth|
+|36.|Special|unique |
+|37.|Spicy|pretty hot|
+|38.|Tasty|delicious, yummy |
+|39.|Send (food) back|return your food due to some reason.|
+|40.|Steamed|to cooked by steam. (Steam = The hot mist that water produced when it's boiled.)|
 ---
 ### 400 Must Have Words For The TOEFL
 
